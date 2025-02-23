@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Meska\\source\\repos\\CTIS465Proj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EB9DB2-456C-4EF4-ADFA-2C24FD33616C}|APP.Users\\APP.Users.csproj|c:\\users\\meska\\source\\repos\\ctis465proj\\app.users\\migrations\\usersdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EB9DB2-456C-4EF4-ADFA-2C24FD33616C}|APP.Users\\APP.Users.csproj|solutionrelative:app.users\\migrations\\usersdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EB9DB2-456C-4EF4-ADFA-2C24FD33616C}|APP.Users\\APP.Users.csproj|c:\\users\\meska\\source\\repos\\ctis465proj\\app.users\\migrations\\20250223210151_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EB9DB2-456C-4EF4-ADFA-2C24FD33616C}|APP.Users\\APP.Users.csproj|solutionrelative:app.users\\migrations\\20250223210151_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EB9DB2-456C-4EF4-ADFA-2C24FD33616C}|APP.Users\\APP.Users.csproj|c:\\users\\meska\\source\\repos\\ctis465proj\\app.users\\migrations\\20250223210151_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EB9DB2-456C-4EF4-ADFA-2C24FD33616C}|APP.Users\\APP.Users.csproj|solutionrelative:app.users\\migrations\\20250223210151_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EB9DB2-456C-4EF4-ADFA-2C24FD33616C}|APP.Users\\APP.Users.csproj|c:\\users\\meska\\source\\repos\\ctis465proj\\app.users\\app.users.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1EB9DB2-456C-4EF4-ADFA-2C24FD33616C}|APP.Users\\APP.Users.csproj|solutionrelative:app.users\\app.users.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EB9DB2-456C-4EF4-ADFA-2C24FD33616C}|APP.Users\\APP.Users.csproj|c:\\users\\meska\\source\\repos\\ctis465proj\\app.users\\domain\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EB9DB2-456C-4EF4-ADFA-2C24FD33616C}|APP.Users\\APP.Users.csproj|solutionrelative:app.users\\domain\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC8FBE2-A284-44B3-995D-9ABDA4B2A0CF}|API.Users\\API.Users.csproj|c:\\users\\meska\\source\\repos\\ctis465proj\\api.users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC8FBE2-A284-44B3-995D-9ABDA4B2A0CF}|API.Users\\API.Users.csproj|solutionrelative:api.users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EB9DB2-456C-4EF4-ADFA-2C24FD33616C}|APP.Users\\APP.Users.csproj|c:\\users\\meska\\source\\repos\\ctis465proj\\app.users\\usersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EB9DB2-456C-4EF4-ADFA-2C24FD33616C}|APP.Users\\APP.Users.csproj|solutionrelative:app.users\\usersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC8FBE2-A284-44B3-995D-9ABDA4B2A0CF}|API.Users\\API.Users.csproj|c:\\users\\meska\\source\\repos\\ctis465proj\\api.users\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BAC8FBE2-A284-44B3-995D-9ABDA4B2A0CF}|API.Users\\API.Users.csproj|solutionrelative:api.users\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BB37A-3ACE-49A2-88B9-35C6EDA74A53}|CORE\\CORE.csproj|c:\\users\\meska\\source\\repos\\ctis465proj\\core\\app\\domain\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976BB37A-3ACE-49A2-88B9-35C6EDA74A53}|CORE\\CORE.csproj|solutionrelative:core\\app\\domain\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\Meska\\source\\repos\\CTIS465Proj\\CORE\\APP\\Domain\\Entity.cs",
+              "RelativeDocumentMoniker": "CORE\\APP\\Domain\\Entity.cs",
+              "ToolTip": "C:\\Users\\Meska\\source\\repos\\CTIS465Proj\\CORE\\APP\\Domain\\Entity.cs",
+              "RelativeToolTip": "CORE\\APP\\Domain\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T20:02:36.18Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Meska\\source\\repos\\CTIS465Proj\\APP.Users\\Migrations\\UsersDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "APP.Users\\Migrations\\UsersDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Meska\\source\\repos\\CTIS465Proj\\APP.Users\\Migrations\\UsersDbContextModelSnapshot.cs",
+              "RelativeToolTip": "APP.Users\\Migrations\\UsersDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:15:15.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250223210151_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Meska\\source\\repos\\CTIS465Proj\\APP.Users\\Migrations\\20250223210151_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "APP.Users\\Migrations\\20250223210151_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\Meska\\source\\repos\\CTIS465Proj\\APP.Users\\Migrations\\20250223210151_InitialCreate.Designer.cs",
+              "RelativeToolTip": "APP.Users\\Migrations\\20250223210151_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:14:51.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ViewState": "AgIAACEAAAAAAAAAAAAMwDUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-02-23T21:12:30.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "APP.Users.csproj",
+              "DocumentMoniker": "C:\\Users\\Meska\\source\\repos\\CTIS465Proj\\APP.Users\\APP.Users.csproj",
+              "RelativeDocumentMoniker": "APP.Users\\APP.Users.csproj",
+              "ToolTip": "C:\\Users\\Meska\\source\\repos\\CTIS465Proj\\APP.Users\\APP.Users.csproj",
+              "RelativeToolTip": "APP.Users\\APP.Users.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T21:11:19.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250223210151_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Meska\\source\\repos\\CTIS465Proj\\APP.Users\\Migrations\\20250223210151_InitialCreate.cs",
+              "RelativeDocumentMoniker": "APP.Users\\Migrations\\20250223210151_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Meska\\source\\repos\\CTIS465Proj\\APP.Users\\Migrations\\20250223210151_InitialCreate.cs",
+              "RelativeToolTip": "APP.Users\\Migrations\\20250223210151_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:01:51.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\Meska\\source\\repos\\CTIS465Proj\\APP.Users\\Domain\\Skill.cs",
+              "RelativeDocumentMoniker": "APP.Users\\Domain\\Skill.cs",
+              "ToolTip": "C:\\Users\\Meska\\source\\repos\\CTIS465Proj\\APP.Users\\Domain\\Skill.cs",
+              "RelativeToolTip": "APP.Users\\Domain\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T20:59:39.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Meska\\source\\repos\\CTIS465Proj\\API.Users\\Program.cs",
+              "RelativeDocumentMoniker": "API.Users\\Program.cs",
+              "ToolTip": "C:\\Users\\Meska\\source\\repos\\CTIS465Proj\\API.Users\\Program.cs",
+              "RelativeToolTip": "API.Users\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T20:47:07.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Meska\\source\\repos\\CTIS465Proj\\API.Users\\appsettings.json",
+              "RelativeDocumentMoniker": "API.Users\\appsettings.json",
+              "ToolTip": "C:\\Users\\Meska\\source\\repos\\CTIS465Proj\\API.Users\\appsettings.json",
+              "RelativeToolTip": "API.Users\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-23T20:42:00.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Meska\\source\\repos\\CTIS465Proj\\APP.Users\\UsersDbContext.cs",
+              "RelativeDocumentMoniker": "APP.Users\\UsersDbContext.cs",
+              "ToolTip": "C:\\Users\\Meska\\source\\repos\\CTIS465Proj\\APP.Users\\UsersDbContext.cs",
+              "RelativeToolTip": "APP.Users\\UsersDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T20:27:02.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

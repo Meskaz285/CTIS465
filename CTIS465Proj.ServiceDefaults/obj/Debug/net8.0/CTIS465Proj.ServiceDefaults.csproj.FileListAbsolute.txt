@@ -1,0 +1,15 @@
+C:\Users\Meska\source\repos\CTIS465Proj\CTIS465Proj.ServiceDefaults\bin\Debug\net8.0\CTIS465Proj.ServiceDefaults.deps.json
+C:\Users\Meska\source\repos\CTIS465Proj\CTIS465Proj.ServiceDefaults\bin\Debug\net8.0\CTIS465Proj.ServiceDefaults.runtimeconfig.json
+C:\Users\Meska\source\repos\CTIS465Proj\CTIS465Proj.ServiceDefaults\bin\Debug\net8.0\CTIS465Proj.ServiceDefaults.dll
+C:\Users\Meska\source\repos\CTIS465Proj\CTIS465Proj.ServiceDefaults\bin\Debug\net8.0\CTIS465Proj.ServiceDefaults.pdb
+C:\Users\Meska\source\repos\CTIS465Proj\CTIS465Proj.ServiceDefaults\obj\Debug\net8.0\CTIS465Proj.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\Meska\source\repos\CTIS465Proj\CTIS465Proj.ServiceDefaults\obj\Debug\net8.0\CTIS465Proj.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meska\source\repos\CTIS465Proj\CTIS465Proj.ServiceDefaults\obj\Debug\net8.0\CTIS465Proj.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\Meska\source\repos\CTIS465Proj\CTIS465Proj.ServiceDefaults\obj\Debug\net8.0\CTIS465Proj.ServiceDefaults.AssemblyInfo.cs
+C:\Users\Meska\source\repos\CTIS465Proj\CTIS465Proj.ServiceDefaults\obj\Debug\net8.0\CTIS465Proj.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\Meska\source\repos\CTIS465Proj\CTIS465Proj.ServiceDefaults\obj\Debug\net8.0\CTIS465Proj.ServiceDefaults.sourcelink.json
+C:\Users\Meska\source\repos\CTIS465Proj\CTIS465Proj.ServiceDefaults\obj\Debug\net8.0\CTIS465Proj.ServiceDefaults.dll
+C:\Users\Meska\source\repos\CTIS465Proj\CTIS465Proj.ServiceDefaults\obj\Debug\net8.0\refint\CTIS465Proj.ServiceDefaults.dll
+C:\Users\Meska\source\repos\CTIS465Proj\CTIS465Proj.ServiceDefaults\obj\Debug\net8.0\CTIS465Proj.ServiceDefaults.pdb
+C:\Users\Meska\source\repos\CTIS465Proj\CTIS465Proj.ServiceDefaults\obj\Debug\net8.0\CTIS465Proj.ServiceDefaults.genruntimeconfig.cache
+C:\Users\Meska\source\repos\CTIS465Proj\CTIS465Proj.ServiceDefaults\obj\Debug\net8.0\ref\CTIS465Proj.ServiceDefaults.dll
